@@ -63,7 +63,7 @@ namespace GuessTheNumber {
 			this->label1->Name = L"label1";
 			this->label1->Size = System::Drawing::Size(231, 72);
 			this->label1->TabIndex = 0;
-			this->label1->Text = L"Тишининов Александр\r\nИВБО-06-18\r\n2021 год\r\npro100cahya14@gmail.com";
+			this->label1->Text = L"Тишининов Александр\r\nЭФМО-01-22\r\n2022 год\r\npro100cahya14@gmail.com";
 			// 
 			// AboutForm
 			// 
