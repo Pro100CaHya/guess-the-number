@@ -4,7 +4,7 @@
 
 Ниже представлена схема алгоритма программы
 
-![Algorithm](ALGORITHM_SCHEME.jpeg)
+![Algorithm](img/ALGORITHM_SCHEME.jpeg)
 
 Прокомментируем данную схему, описав действия:
 
