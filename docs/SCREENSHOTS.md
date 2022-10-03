@@ -26,4 +26,5 @@
 
 ### Видео демонстрация рабочей версии
 
-![demo](demo.mp4)
+https://user-images.githubusercontent.com/47455676/193593928-5b7bb41d-32f0-4a03-87a7-11f9172de6b5.mp4
+
